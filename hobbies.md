@@ -2,4 +2,4 @@
 
 
 
-"assets/collageone.jpg"
+![alt text](assets/collageone.jpg)
