@@ -13,7 +13,7 @@ subtitle: subtitle
 #### [Pachinko by Min Jin Lee](https://www.minjinlee.com/book/pachinko/)
 _New York Times Bestseller_
 
-![](assets/img/pachinko.png=250x250)
+![pic](assets/img/pachinko.png=250x250)
 
 
 
