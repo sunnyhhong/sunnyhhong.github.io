@@ -13,7 +13,9 @@ author: Sunny (Sung Hee), Hong
 
 navbar-links:
   About Me: "aboutme"
-  My Hobbies: "hobbies" 
+  My Hobbies:
+  - Photography: "hobbies" 
+  - Reading (Book Rec) : "books"
   Projects: 
 
 # --- Logo --- #
