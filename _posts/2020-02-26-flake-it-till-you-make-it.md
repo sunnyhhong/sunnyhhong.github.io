@@ -1,7 +1,7 @@
 ---
 layout: post
 title: APPsolutely Sucessful 
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Here is a helpful model....
 cover-img: assets/img/UntimelyFrankFattaileddunnart-small.gif
 tags: [Android App, App, Machine Learning, Data Science]
 ---
