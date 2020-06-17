@@ -5,5 +5,10 @@ subtitle: subtitle
 ---
 
 
-[<"assets/img/Screen Shot 2020-06-16 at 5.20.38 PM.png">](https://www.minjinlee.com/book/pachinko/)
+
+# Pachinko by Min Jin Lee
+_New York Times Bestseller_
+ [![Alt text](assets/img/pachinko.png)](https://www.minjinlee.com/book/pachinko/)
+ 
+ 
 
