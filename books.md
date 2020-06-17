@@ -15,13 +15,13 @@ _New York Times Bestseller_
 
 ## The Minority Experienc- Navigating Emotional Organizational Realities by Andrian Pei
 
- [![Alt text](assets/img/Screen Shot 2020-06-16 at 5.22.21 PM.png=250x)](https://www.amazon.com/Minority-Experience-Navigating-Emotional-Organizational/dp/0830845488)
+ [![Alt text](assets/img/Screen Shot 2020-06-16 at 5.22.21 PM.png)](https://www.amazon.com/Minority-Experience-Navigating-Emotional-Organizational/dp/0830845488)
  
  
  
  ## Frankly in Love by David Yoon 
 
- [![Alt text](assets/img/Screen Shot 2020-06-16 at 5.23.03 PM.png=250x)](https://www.penguinrandomhouse.com/books/598579/frankly-in-love-by-david-yoon/)
+ [![Alt text](assets/img/Screen Shot 2020-06-16 at 5.23.03 PM.png)](https://www.penguinrandomhouse.com/books/598579/frankly-in-love-by-david-yoon/)
  
  
  
