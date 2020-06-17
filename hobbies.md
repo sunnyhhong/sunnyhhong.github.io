@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hobbies
-subtitle: Canon Rebel T6 : 55mm 
+subtitle: Canon Rebel T6 55mm 
 ---
 
 Location : Santa Barbara, Los Angeles 
