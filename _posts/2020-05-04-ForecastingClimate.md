@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forecasting Climate
+image: assets/img/forecasting.png
 subtitle: Panademic & Permafrost Act Fast on Climate Change
 cover-img: assets/img/forecasting.png
 image: assets/img/forecasting.png
