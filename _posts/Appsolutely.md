@@ -1,8 +1,6 @@
 ---
 layout: post
 title: APPsolutely Sucessful 
-subtitle: Here is a helpful model....
-cover-img: assets/img/UntimelyFrankFattaileddunnart-small.gif
 tags: [Android App, App, Machine Learning, Data Science]
 ---
 
