@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project #1
+title: APPsolutely Sucessful 
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: ![Alt Text](https://thumbs.gfycat.com/UntimelyFrankFattaileddunnart-small.gif)
 tags: [books, test]
 ---
 
