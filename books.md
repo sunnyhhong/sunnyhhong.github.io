@@ -4,12 +4,13 @@ title: Reading (Book Rec)
 subtitle: subtitle 
 ---
 
-# Culture 
+# Culture : 
+
 
 #### [Pachinko by Min Jin Lee](https://www.minjinlee.com/book/pachinko/)
 _New York Times Bestseller_
 
-![" width="690" height="473](assets/img/pachinko.png)
+![" width="690" height="473](assets/img/pachinko.png){:height="50%" width="50%"}
 
 
 
