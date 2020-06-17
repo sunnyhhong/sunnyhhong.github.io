@@ -6,10 +6,10 @@ subtitle: subtitle
 
 # Culture 
 
-#### Pachinko by Min Jin Lee
+#### [Pachinko by Min Jin Lee](https://www.minjinlee.com/book/pachinko/)
 _New York Times Bestseller_
- [![Alt text](assets/img/pachinko.png height="473")](https://www.minjinlee.com/book/pachinko/)
 
+![" width="690" height="473](assets/img/pachinko.png)
 
 
 
