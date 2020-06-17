@@ -13,6 +13,8 @@ _New York Times Bestseller_
 ![" width="690" height="473](assets/img/pachinko.png){:height="50%" width="50%"}
 
 
+<img src="assets/img/pachinko.png" width="40%">.
+
 
 #### The Minority Experienc- Navigating Emotional Organizational Realities by Andrian Pei
 
