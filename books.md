@@ -14,6 +14,7 @@ subtitle: subtitle
 _New York Times Bestseller_
 
 <img src="assets/img/pachinko.png" width="40%">
+![](assets/img/pachinko.png | width=100)
 
 
 
@@ -22,8 +23,8 @@ _New York Times Bestseller_
  <img src="assets/img/minority.png" width="40%">
  
  
- ## If you wish you had a Korean-American romance book growing up but never had so reading it in the 2020...
- #### [Frankly in Love by David Yoon](https://www.penguinrandomhouse.com/books/598579/frankly-in-love-by-david-yoon/)
+## If you wish you had a Korean-American romance book growing up but never had so reading it in the 2020...
+#### [Frankly in Love by David Yoon](https://www.penguinrandomhouse.com/books/598579/frankly-in-love-by-david-yoon/)
  <img src="assets/img/frankly.png" width="40%">.
 
  
