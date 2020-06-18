@@ -36,9 +36,17 @@ _New York Times Bestseller_
  
 
 #### If you are looking to learn and see what makes a good leader and how you can be a perfect follower...
-### [GOOD TO GREAT](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+#### If you are looking to buy a present for your CEO or Supervisor who seems lost... 
+### [GOOD TO GREAT by Jim Collins](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
 
 ![pic](assets/img/great.png)
+ 
+ 
+ 
+#### If you are looking to something passionate, everlasting, and tearful...
+### [Last Lecture by Randy Pausch](https://www.amazon.com/Last-Lecture-Randy-Pausch/dp/1401323251)
+
+![pic](assets/img/lecture.png)
  
  
 
