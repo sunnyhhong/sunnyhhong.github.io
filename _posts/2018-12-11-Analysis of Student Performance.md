@@ -2,7 +2,7 @@
 layout: post
 title: Analysis of Student Performance
 subtitle: Each post also has a subtitle
-tags: [test]
+tags: [linear regression, simple regression, prediction]
 comments: true
 ---
 
