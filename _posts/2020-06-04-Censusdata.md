@@ -6,7 +6,10 @@ tags: [Machine Learning, Knn, Random Forest, Folding, Prediction, Analysis]
 comments: true
 ---
 
-#### Our research question : What socioeconomic qualities lead to a higher income in US adults? What qualities influence economic outcome the most?
+#### Our research question :
+#### * What socioeconomic qualities lead to a higher income in US adults? 
+
+#### * What qualities influence economic outcome the most?
 
 
 
