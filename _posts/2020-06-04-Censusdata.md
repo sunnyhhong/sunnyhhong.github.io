@@ -22,4 +22,5 @@ My project partner and I decided to gain insight and predicitons through random 
 
 ![pic](assets/img/randomforest.png)
 
-Check out the full project on [Github](https://github.com/sunny7x7/Pstat131ProjectMachineLearninge)
+
+Check out the full project on [Github](https://github.com/sunny7x7/Pstat131ProjectMachineLearning)
