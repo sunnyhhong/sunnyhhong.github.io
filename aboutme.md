@@ -6,7 +6,7 @@ title: About me
 Hi! My name Sunny Hong and I recently graduated with a degree in Statistics and Data Science at the University of California, Santa Barbara. Yes, I am the class of 2020. This year has been a concentrated time of relearning, reeducating, and sacrificing in the light of coronavirus, heighten racial profiling, and Black Lives Matter movements. 
 
 
-To tell you about myself, my college years has been always about serving the community. I served as a community team (2018) and women’s team (2019-2020) with an Asian American Christian Organization affiliated with CRU, called [Epic](https://www.cru.org/epicmovement/). I also lead the marketing team and my project group for the Data Science club at UCSB, a club dedicated to teaching students about Data Science and provided the resources and space to create projects. I realized my strengths in empathizing, being sincere, and giving. I've also led many teams and events with initiative and confident leadership. 
+To tell you about myself, my college years has been always about serving the community. I served as a community team (2018) and women’s team (2019-2020) with an Asian American Christian Organization affiliated with CRU, called [Epic](https://www.cru.org/epicmovement/). I also led the marketing team and my project group for the Data Science club at UCSB, a club dedicated to teaching students about Data Science and provided the resources and space to create projects. I realized my strengths in empathizing, being sincere, and giving. I've also led many teams and events with initiative and confident leadership. 
 
 I have worked at **YMCA Channel Islands Office** and at the **Geography Department UCSB.** 
 
