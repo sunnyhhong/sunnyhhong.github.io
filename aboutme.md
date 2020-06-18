@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Do I need a subtitle? 
 ---
 
 Hi! My name Sunny Hong and I recently graduated with a degree in Statistics and Data Science at the University of California, Santa Barbara. Yes, I am the class of 2020. This year has been a concentrated time of relearning, reeducating, and sacrificing in the light of coronavirus, heighten racial profiling, and Black Lives Matter movements. 
