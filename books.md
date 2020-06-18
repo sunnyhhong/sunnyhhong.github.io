@@ -4,11 +4,11 @@ title: Reading (Book Rec)
 subtitle: subtitle 
 ---
 
-# Culture : 
+# Culture 
 
 
 
-#### If you are looking for something family centered, power of mother, and lots of tears...
+#### If you are looking for something centered on family amd power of mother...and lots of tears...
 ### [Pachinko by Min Jin Lee](https://www.minjinlee.com/book/pachinko/)
 _New York Times Bestseller_
 
@@ -32,7 +32,7 @@ _New York Times Bestseller_
  
  
  
- # Education : 
+ # Education 
  
 
 #### If you are looking to learn and see what makes a good leader and how you can be a perfect follower...
