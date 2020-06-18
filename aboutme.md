@@ -18,6 +18,6 @@ I am currently continuing my **research assistant** position with **Professor El
 
 ### My Resume (Updated on: June 17, 2020 )
 
--  attach is a [pdf version of myresume]() : ![](assets/RESUME 2020.1.pdf)
+-  attach is a [pdf version of myresume]() : ![pic](assets/RESUME 2020.1.pdf)
 
 
