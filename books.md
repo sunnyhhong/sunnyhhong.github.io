@@ -8,7 +8,7 @@ subtitle: Highly reccommended!! Every one of these books will be worth your time
 
 
 
-#### If you are looking for something centered on family amd power of mother...and lots of tears...
+#### If you are looking for something centered on family and power of mother...and lots of tears...
 ### [Pachinko by Min Jin Lee](https://www.minjinlee.com/book/pachinko/)
 _New York Times Bestseller_
 
