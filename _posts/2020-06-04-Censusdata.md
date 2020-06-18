@@ -8,7 +8,6 @@ comments: true
 
 #### Our research question -
 #### 1.) What socioeconomic qualities lead to a higher income in US adults? 
-
 #### 2.) What qualities influence economic outcome the most?
 
 
@@ -19,7 +18,6 @@ The data was extracted by Barry Becker from the 1994 Census database. The record
 My project partner and I decided to gain insight and predicitons through random forest and KNN (K-nearest neighbor).
 
 (cool findings!)
-
 ![](assets/img/randomforest.png)
 
 
