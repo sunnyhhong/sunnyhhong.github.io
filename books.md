@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading (Book Rec)
-subtitle: subtitle 
+subtitle: Highly reccommended!! Every one of these books will be worth your time! 
 ---
 
 # Culture 
@@ -32,7 +32,7 @@ _New York Times Bestseller_
  
  
  
- # Education 
+# Education 
  
 
 #### If you are looking to learn and see what makes a good leader and how you can be a perfect follower...
