@@ -7,7 +7,8 @@ subtitle: subtitle
 # Culture : 
 
 
-#### If you are looking for something real, family centered, and some tears...
+
+#### If you are looking for something family centered, power of mother, and lots of tears...
 ### [Pachinko by Min Jin Lee](https://www.minjinlee.com/book/pachinko/)
 _New York Times Bestseller_
 
@@ -28,6 +29,16 @@ _New York Times Bestseller_
 ![pic](assets/img/frankly.png)
  
  
+ 
+ 
+ 
+ # Education : 
+ 
+
+#### If you are looking to learn and see what makes a good leader and how you can be a perfect follower...
+### [GOOD TO GREAT](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+
+![pic](assets/img/great.png)
  
  
 
