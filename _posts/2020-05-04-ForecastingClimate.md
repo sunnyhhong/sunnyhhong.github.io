@@ -2,7 +2,6 @@
 layout: post
 title: Forecasting Climate
 subtitle: Panademic & Permafrost Act Fast on Climate Change
-image: assets/img/02F94B12-7D04-4EC8-B6AE-27B22C73CA46-5EA138CD-1F0A-4821-AFD2-EEAB73F2A66E.JPG
 cover-img: assets/img/forecasting.png
 tags: [Forecasting, Climate Change]
 comments: true
