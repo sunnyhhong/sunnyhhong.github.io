@@ -5,6 +5,9 @@ cover-img: assets/img/UntimelyFrankFattaileddunnart-small.gif
 tags: [Android App, App, Machine Learning, Data Science]
 ---
 
+This project was showcased on 2019 [UCSB Data Science Showcase.](https://thebottomline.as.ucsb.edu/2019/06/data-science-showcase-ucsb)
+
+[Presentation Slides](https://docs.google.com/presentation/d/1_bMhlkMFQVJEoRcCoA8ZMv5UUknDudHKjxg920ozmJU/edit#slide=id.p1)
 
 
 An average of 6,140 apps are created and uploaded to Google Play Store daily. With this rapidly growing industry, it would be helpful for the developer to understand what features of an app make it successful, specifically what features will return high ratings and high number of installs. Thus, we want to construct a model to help both individuals and companies make better choices when it comes to developing apps to maximize revenues and user experience.
