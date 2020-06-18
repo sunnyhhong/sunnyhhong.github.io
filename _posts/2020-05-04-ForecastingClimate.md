@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Forecasting Climate
+title: Time Series Forecasting Climate
 subtitle: Panademic & Permafrost Act Fast on Climate Change
 cover-img: assets/img/forecasting.png
-tags: [Forecasting, Climate Change]
+tags: [Forecasting, Climate Change, Time Series]
 comments: true
 ---
 
