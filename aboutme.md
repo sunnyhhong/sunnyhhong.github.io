@@ -14,6 +14,10 @@ I have worked at **YMCA Channel Islands Office** and at the **Geography Departme
 I have interned as a **Data Scientist** the past year with **YMCA Channel Islands** with **Jill Muchow Rode**, my supervisor as well as the Chief Development Officer of the Y. I got to start on my very own project with the data provided. I was able to build a map that showed the impact of donors on the work of the Y. I researched on the language used through NLP using great impactful nonprofit organization websites. I've also worked on topic modeling to build impactful stories for my impact map. Through Power BI, a business analytics service, I was able to build an interactive map to target both older and newer generations audiences.
 
 
+Due to security I've attached a example of what a topic model would look like. (pretty cool!)
+![pic](assets/img/topic.png)
+
+
 I am currently continuing my **research assistant** position with **Professor Elizabeth Ackert** at the Geography Department of UCSB. As a research assistant for the **"Latinx Destinations and Health Project"** I assist the team with my data manipulation and data analysis skills. One of our aims is to compare health care supply across Latino/a destination. As the research assistant, I use R and RSQL to manipulate multiple data sets to prepare for multivariate analysis. 
 
 ### My Resume (Updated on: June 17, 2020 )
