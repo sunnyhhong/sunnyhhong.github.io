@@ -17,7 +17,7 @@ _New York Times Bestseller_
 
 
 
-#### If you are looking for deep connection and understanding of the experience as an minority leader...
+#### If you are looking for a deep connection and understanding of the experience as an minority leader...
 ### [The Minority Experience- Navigating Emotional Organizational Realities by Andrian Pei](https://www.amazon.com/Minority-Experience-Navigating-Emotional-Organizational/dp/0830845488)
 
  ![pic](assets/img/minority.png)
