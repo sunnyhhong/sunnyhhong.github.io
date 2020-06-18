@@ -13,7 +13,7 @@ comments: true
 
 
 
-The data was extracted by Barry Becker from the 1994 Census database. The records follow these following conditions : ((AAGE>16) && (AGI>100) && (AFNLWGT>1)&& (HRSWK>0)). With this dataset obtained from UCI datasets source, we will model to predict the income whether a person makes over 50K or not. 
+The data was extracted by Barry Becker from the 1994 Census database. The records follow these following conditions  ((AAGE>16) && (AGI>100) && (AFNLWGT>1)&& (HRSWK>0)). With this dataset obtained from UCI datasets source, we will model to predict the income whether a person makes over 50K or not. 
 
 
 My project partner and I decided to gain insight and predicitons through random forest and KNN (K-nearest neighbor).
