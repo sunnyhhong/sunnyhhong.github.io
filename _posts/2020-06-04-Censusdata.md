@@ -17,9 +17,7 @@ The data was extracted by Barry Becker from the 1994 Census database. The record
 
 My project partner and I decided to gain insight and predicitons through random forest and KNN (K-nearest neighbor).
 
-(cool findings!)
 
-![pic](assets/img/randomforest.png)
 
 
 Check out the full project on [Github](https://github.com/sunny7x7/Pstat131ProjectMachineLearning)
