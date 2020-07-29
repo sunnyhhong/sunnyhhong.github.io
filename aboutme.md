@@ -19,7 +19,7 @@ Due to security I've attached a example of what a topic model would look like. (
 
 I am currently continuing my **research assistant** position with **Professor Elizabeth Ackert** at the Geography Department of UCSB. As a research assistant for the **"Latinx Destinations and Health Project"** I assist the team with my data manipulation and data analysis skills. One of our aims is to compare health care supply across Latino/a destination. As the research assistant, I use R and RSQL to manipulate multiple data sets to prepare for multivariate analysis. 
 
-### My Resume (Updated on: June 17, 2020 )
+### My Resume (Updated on: July 29, 2020 )
 
 -  attach is a [pdf version of myresume](https://github.com/sunny7x7/Resume)
 
