@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Analysis of Student Performance
-tags: [html, COVID-19]
+tags: [html, COVID-19] 
+cover-img:  
 comments: true
 ---
 
