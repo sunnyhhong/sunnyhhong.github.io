@@ -2,7 +2,7 @@
 layout: post
 title: Analysis of Student Performance
 tags: [html, COVID-19] 
-cover-img:  
+cover-img:  flyers.jpg
 comments: true
 ---
 
