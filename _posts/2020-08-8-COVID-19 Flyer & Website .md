@@ -29,6 +29,7 @@ With the given skills, interest, and growth area I had with me I decided:
 <iframe seamless frameborder="0" src="https://public.tableau.com/profile/sung.hee5051#!/vizhome/SBCOVID2/NewConfirmedcaseseachday:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/SBCOVID2/NewConfirmedcaseseachday?:language=en&:display_count=yes&:showVizHome=no
+" width = '650' height = '450'></iframe> 
 
 
