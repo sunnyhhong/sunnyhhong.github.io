@@ -2,7 +2,7 @@
 layout: post
 title: COVID-19 Flyer & Website & Tableau 
 tags: [html, COVID-19] 
-cover-img:  flyers.png
+cover-img:  assets/img/flyers.png
 comments: true
 ---
 
