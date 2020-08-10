@@ -22,7 +22,7 @@ With the given skills, interest, and growth area I had with me I decided:
 3. Make tableau data visualization to highlight important factors. 
 
 
-![ScreenShot](flyers.jpg) 
+![ScreenShot](sunny7x7.github.io/assets/img/flyers.jpg) 
 
 
 
