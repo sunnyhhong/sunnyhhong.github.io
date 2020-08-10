@@ -23,4 +23,5 @@ With the given skills, interest, and growth area I had with me I decided:
 3. Make tableau data visualization to highlight important factors. 
 
 
-<iframe src="https://public.tableau.com/profile/sung.hee5051#!/vizhome/SBCOVID2/NewConfirmedcaseseachday" width = '650' height = '450'></iframe>
+
+<iframe seamless frameborder="0" src=""https://public.tableau.com/profile/sung.hee5051#!/vizhome/SBCOVID2/NewConfirmedcaseseachday"" width = '650' height = '450'></iframe> 
