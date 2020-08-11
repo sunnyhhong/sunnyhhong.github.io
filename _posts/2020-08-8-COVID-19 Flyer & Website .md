@@ -26,5 +26,9 @@ Check out the website! : http://covid19islavista.com
 ![pic](/assets/img/flyers.jpg)
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/SBCOVID2/NewConfirmedcaseseachday?:language=en&:display_count=yes&:showVizHome=no" width = '1010' height = '830' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/SBCOVID2/CumulativeCases?:language=en&:display_count=y&publish=yes&:showVizHome=no" width = '1010' height = '830' ></iframe>   
+
+
+
+
 
