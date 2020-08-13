@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 Flyer & Website & Tableau for my Community 
+title: COVID-19 Flyer & Website & Tableau 
 tags: [html, COVID-19] 
 comments: true
 ---
