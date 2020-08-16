@@ -17,9 +17,7 @@ I’ve picked up on basic HTML, CSS, and designing skills over the month to make
 Message me with feedback & other than that comment below and help me spread the message!
 
 
-Check out the website! : http://covid19islavista.com
-
-
+Check out the website! : 
 [http://covid19islavista.com](http://covid19islavista.com)
 
 
