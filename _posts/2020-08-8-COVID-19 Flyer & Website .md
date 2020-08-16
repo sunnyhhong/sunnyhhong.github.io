@@ -19,6 +19,8 @@ Message me with feedback & other than that comment below and help me spread the 
 
 Check out the website! : http://covid19islavista.com
 
+[http://covid19islavista.com](http://covid19islavista.com)
+
 
 ![pic](/assets/img/flyers.jpg)
 
