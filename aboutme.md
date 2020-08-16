@@ -10,7 +10,7 @@ As a first-generation college student, women in data science, and a part of the 
 
 I have worked at **YMCA Channel Islands Office** and at the **Geography Department UCSB.** 
 
-I have interned as a **Data Scientist** the past year with **YMCA Channel Islands** with **Jill Muchow Rode**, my supervisor as well as the Chief Development Officer of the Y. I got to start on my very own project with the data provided. I was able to build a map that showed the impact of donors on the work of the Y. I researched on the language used through NLP using great impactful nonprofit organization websites. I've also worked on topic modeling to build impactful stories for my impact map. Through Power BI, a business analytics service, I was able to build an interactive map to target both older and newer generations audiences.
+I have interned as a **Data Scientist** the past year with **YMCA Channel Islands** with **Jill Muchow Rode**, my supervisor as well as the Chief Development Officer of the Y. I got to start on my very own project with the data provided. I was able to build a map that showed the impact of donors on the work of the Y. I researched on the words used through NLP using great impactful nonprofit organization websites. I've also worked on topic modeling to build impactful stories for my impact map. Through Power BI, a business analytics service, I was able to build an interactive map to target both older and newer generations audiences.
 
 
 Due to security I've attached a example of what a topic model would look like. (pretty cool!)
