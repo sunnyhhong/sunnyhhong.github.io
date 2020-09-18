@@ -12,8 +12,8 @@ I decided to make 2 flyers targeting different audiences, both of which include 
 Small Accomplishments: 
 * had over 1,025+ users on the website over the past 3 weeks
 * average of 53 users per day according to the data over the past 3 weeks
-* interviewed with KCSB radio station to share my motivation behind it! : [https://soundcloud.com/kcsbfm/a-graduating-seniors-covid-19-awareness-campaign?fbclid=IwAR0pvX7Sgrf5wsYbPCkFEAQpDVIlXHgF8g9Nwzwft07nN70ThXnLx_ScdK8](Sound Cloud)
-* live dashboard featured on KCSB COVID-19 website : [https://www.kcsb.org]KCSB
+* interviewed with KCSB radio station to share my motivation behind it! : [Sound Cloud](https://soundcloud.com/kcsbfm/a-graduating-seniors-covid-19-awareness-campaign?fbclid=IwAR0pvX7Sgrf5wsYbPCkFEAQpDVIlXHgF8g9Nwzwft07nN70ThXnLx_ScdK8)
+* live dashboard featured on KCSB COVID-19 website : [KCSB COVID-19 Website](https://www.kcsb.org)
 
 
 Check out the website! : 
