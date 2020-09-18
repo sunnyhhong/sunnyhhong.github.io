@@ -13,7 +13,7 @@ Small Accomplishments:
 * had over 1,025+ users on the website over the past 3 weeks
 * average of 53 users per day according to the data over the past 3 weeks
 * interviewed with KCSB radio station to share my motivation behind it! : [Sound Cloud](https://soundcloud.com/kcsbfm/a-graduating-seniors-covid-19-awareness-campaign?fbclid=IwAR0pvX7Sgrf5wsYbPCkFEAQpDVIlXHgF8g9Nwzwft07nN70ThXnLx_ScdK8)
-* live dashboard featured on KCSB COVID-19 website : [KCSB COVID-19 Website](https://www.kcsb.org)
+* live dashboard featured on KCSB COVID-19 website : [KCSB COVID-19 Website](https://www.kcsb.org/covid-19-resources/)
 
 
 Check out the website! : 
