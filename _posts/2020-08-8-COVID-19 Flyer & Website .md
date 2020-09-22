@@ -10,8 +10,8 @@ The goal of this project/campaign was to gain support and encourage both the com
 I decided to make 2 flyers targeting different audiences, both of which include a QR code leading to a non-commercial website. This website includes very basic information on what we can be doing. I’ve also added a LIVE dashboard that has the total number of active cases in IV at the moment, confirmed cases in IV, as well as total cases in Santa Barbara county. These numbers are updated daily. I’ve picked up on basic HTML, CSS, and designing skills over the month to make this work.
 
 Small Accomplishments: 
-* had over 1,025+ users on the website over the past 3 weeks
-* average of 53 users per day according to the data over the past 3 weeks
+* had over 1,025+ users on the website over the first 3 weeks
+* average of 53 users per day according to the data over the first 3 weeks
 * interviewed with KCSB radio station to share my motivation behind it! : [Sound Cloud](https://soundcloud.com/kcsbfm/a-graduating-seniors-covid-19-awareness-campaign?fbclid=IwAR0pvX7Sgrf5wsYbPCkFEAQpDVIlXHgF8g9Nwzwft07nN70ThXnLx_ScdK8)
 * live dashboard featured on KCSB COVID-19 website : [KCSB COVID-19 Website](https://www.kcsb.org/covid-19-resources/)
 
