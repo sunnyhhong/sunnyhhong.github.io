@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading (Book Rec)
+title: Books
 subtitle: Highly reccommended!! Every one of these books will be worth your time! 
 ---
 
