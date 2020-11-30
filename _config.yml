@@ -12,10 +12,12 @@ author: Sunny (Sung Hee), Hong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: 
+  - Introduction: "aboutme"
+  - Certificates: "Certificates"
   My Hobbies:
   - Photography: "Photography" 
-  - Reading (Book Rec) : "books"
+  - Books: "books"
 
 # --- Logo --- #
 
