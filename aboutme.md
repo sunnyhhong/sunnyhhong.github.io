@@ -21,7 +21,7 @@ As a first-generation college student, women in data science, and a part of the 
 
 
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 
 
