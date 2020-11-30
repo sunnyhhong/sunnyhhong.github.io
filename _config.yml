@@ -15,6 +15,7 @@ navbar-links:
   About Me: 
   - Introduction: "aboutme"
   - Certificates: "Certificates"
+  - Resume: "resume"
   My Hobbies:
   - Photography: "Photography" 
   - Books: "books"
