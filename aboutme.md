@@ -25,6 +25,7 @@ I am currently continuing my **research assistant** position with **Professor El
 
 # My Resume (Updated on: September 14, 2020 )
 
+
 -  attach is a [pdf version of myresume](https://github.com/sunny7x7/Resume)
 
 
@@ -33,7 +34,13 @@ I am currently continuing my **research assistant** position with **Professor El
 ##### Certificates 
 
 
+![pic](assets/img/tableaubuilder.jpg)
 
+
+
+<p align="center">
+  <img width="460" height="300" src="assets/img/tableaubuilder.jpg">
+</p>
 
 
 
