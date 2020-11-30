@@ -5,7 +5,7 @@ subtitle:
 ---
 
 
-Hi! My name Sunny Hong and I will be graduating on September 2020 with a degree in Statistics and Data Science at the University of California, Santa Barbara. Yes, I am the class of 2020. This year has been a concentrated time of relearning, reeducating, and sacrificing in the light of coronavirus, heighten racial profiling, and Black Lives Matter movements. 
+Hi! My name Sunny Hong and I graduated on September 2020 with a degree in Statistics and Data Science at the University of California, Santa Barbara. Yes, I am the class of 2020. This year has been a concentrated time of relearning, reeducating, and sacrificing in the light of coronavirus, heighten racial profiling, and Black Lives Matter movements. 
 
 ![pic](assets/img/degree.png)
 
@@ -16,7 +16,18 @@ As a first-generation college student, women in data science, and a part of the 
 
 
 
+
+
+
+
+
 <hr style="border:2px solid gray"> </hr>
+
+
+
+
+
+
 
 
 I have worked at **YMCA Channel Islands Office** and at the **Geography Department UCSB.** 
