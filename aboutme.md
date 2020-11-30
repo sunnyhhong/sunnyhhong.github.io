@@ -32,14 +32,5 @@ I am currently continuing my **research assistant** position with **Professor El
 
 
 
-# Certificates
-
-
-![pic](assets/img/SQL_certificate.jpg)
-
-
-![pic](assets/img/tableaubuilder.jpg)
-
-
 
 
