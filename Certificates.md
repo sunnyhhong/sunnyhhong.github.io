@@ -4,6 +4,8 @@ title: Certificate
 subtitle: Udemy
 ---
 
+![pic](assets/img/TableauCert.jpg)
+
 
 ![pic](assets/img/SQL_certificate.jpg)
 
