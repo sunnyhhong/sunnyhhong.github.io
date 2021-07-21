@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rise of Latinx Destination Tableau
-cover-img: assets/img/UntimelyFrankFattaileddunnart-small.gif
 tags: [Data Manipulation, Tableau, Data Science]
 ---
 
