@@ -1,20 +1,11 @@
 ---
 layout: post
-title: APPsolutely Successful 
+title: Rise of Latinx Destination Tableau
 cover-img: assets/img/UntimelyFrankFattaileddunnart-small.gif
-tags: [Android App, App, Machine Learning, Data Science]
+tags: [Data Manipulation, Tableau, Data Science]
 ---
 
-This project was showcased on 2019 [UCSB Data Science Showcase.](https://thebottomline.as.ucsb.edu/2019/06/data-science-showcase-ucsb)
-
-[Presentation Slides](https://docs.google.com/presentation/d/1_bMhlkMFQVJEoRcCoA8ZMv5UUknDudHKjxg920ozmJU/edit#slide=id.p1)
-
-
-An average of 6,140 apps are created and uploaded to Google Play Store daily. With this rapidly growing industry, it would be helpful for the developer to understand what features of an app make it successful, specifically what features will return high ratings and high number of installs. Thus, we want to construct a model to help both individuals and companies make better choices when it comes to developing apps to maximize revenues and user experience.
-
-This project focuses on studying the different methods of machine learning to determine the best possible way to predict the indicator point to a successful Google App. Our main objective of the research is to understand the construction and functionality of Google application to help applications hit the market as a “trendy app”. We executed Machine Learning/Modeling procedures through Rstudio packages such as Reduced Rank Regression ([RRR package](https://github.com/chrisaddy/rrr)) and Random Forest ([Random Forest package](https://github.com/cran/randomForest)) and Mass ([Stepwise Function](https://github.com/cran/MASS/blob/master/R/stepAIC.R)). For analytical purposes, we used packages like ([ggplot2](https://github.com/tidyverse/ggplot2)) to create the best informative and colorfully stimulating graphs that can be understood in one setting.
 
 
 
-Check out the full project on [Github](https://github.com/sunny7x7/TrendingApp)
-
+<div class='tableauPlaceholder' id='viz1626840241144' style='position: relative'><noscript><a href='#'><img alt='Rise of New Latinx Destinations Well Being &amp; Contextual Health Risks for Latinx Destinations ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;M4&#47;M47Z297B7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;M47Z297B7' /> <param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;M4&#47;M47Z297B7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1626840241144');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='1016px';vizElement.style.maxWidth='1116px';vizElement.style.width='100%';vizElement.style.minHeight='964px';vizElement.style.maxHeight='1064px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
