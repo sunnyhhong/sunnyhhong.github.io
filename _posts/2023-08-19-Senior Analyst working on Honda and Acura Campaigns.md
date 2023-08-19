@@ -9,7 +9,7 @@ tags: [Tableau, SQL, Media Data Analyst, Big Data, Marketing Campaigns]
 
 Lead the project by refreshing, building, and writing insights for the monthly national reporting of Honda and Acura Brand health. The slides are presented to Honda & Marketing media clients.
 
-![pic](assets/Screen Shot 2023-08-19 at 4.11.45 PM.png)
+![pic](assets/synergy.jpg)
 
 **2.Building Advanced Statistical Models to Forecast & Set Goals**
 
