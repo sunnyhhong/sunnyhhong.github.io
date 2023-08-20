@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Senior Analyst Honda & Acura Media Campaigns
@@ -14,8 +13,6 @@ Led the project by refreshing, building, and writing insights for the monthly na
 **2.Building Advanced Statistical Models to Forecast & Set Goals**
 
 Built a statistical model from the ground up and proposed a new advanced statistical goal setting to Honda & Acura media clients.
-
-
 
 ![pic](/assets/img/100kiGoogle1024_1.jpg)
 ![pic](/assets/img/100kiGoogle1024_2.jpg)
