@@ -6,13 +6,13 @@ tags: [Tableau, SQL, Media Data Analyst, Big Data, Marketing Campaigns]
 
 **1. Creating & Presenting Monthly Reports**
 
-Led the project by refreshing, building, and writing insights for the monthly national reporting of Honda and Acura Brand health. The slides are presented to Honda & Marketing media clients.
+Led the project by refreshing, building, and writing insights for the monthly national reporting of Honda and Acura brand health. The slides are presented to Honda & Acura marketing media clients.
 
 ![pic](/assets/img/synergy.jpg)
 
-**2.Building Advanced Statistical Models to Forecast & Set Goals**
+**2. Building Advanced Statistical Models to Forecast & Set Goals**
 
-Built a statistical model from the ground up and proposed a new advanced statistical goal setting to Honda & Acura media clients.
+Built a statistical model from the ground up and proposed a new advanced statistical goal-setting process to the Honda & Acura media clients.
 
 ![pic](/assets/img/100kiGoogle1024_1.jpg)
 ![pic](/assets/img/100kiGoogle1024_2.jpg)
