@@ -34,7 +34,7 @@ Advanced Statistical Goal-Setting Process Proposal for Honda & Acura
 Project Overview:
 I led the initiative to develop a robust statistical model from the ground up and introduced an innovative statistical goal-setting process to Honda and Acura's media clients.
 
-Key Achievements:
+**Key Achievements:**
 
 *Custom Statistical Model:* Pioneered the creation of a custom statistical model tailored specifically to Honda and Acura's unique market dynamics. This model harnessed the power of data analytics to provide more accurate insights.
 
